@@ -1,0 +1,160 @@
+Iteration 1
+User: 474  ----> Satisfaction: 0.9948250019038323, Weight: 0.6666666666666667
+User: 599  ----> Satisfaction: 1.0, Weight: 0.6666666666666667
+User: 414  ----> Satisfaction: 1.0, Weight: 0.6666666666666667
+Iteration 2
+User: 474  ----> Satisfaction: 0.9948250019038323, Weight: 0.6678186534200112
+User: 599  ----> Satisfaction: 1.0, Weight: 0.6660906732899944
+User: 414  ----> Satisfaction: 1.0, Weight: 0.6660906732899944
+Iteration 3
+User: 474  ----> Satisfaction: 0.9948250019038323, Weight: 0.6678186534200112
+User: 599  ----> Satisfaction: 1.0, Weight: 0.6660906732899944
+User: 414  ----> Satisfaction: 1.0, Weight: 0.6660906732899944
+
+Group Satisfaction: 0.9982750006346107
+Disagreement: 0.005174998096167727
+----------------------------
+Iteration 1
+User: 45  ----> Satisfaction: 0.935373737710307, Weight: 0.6666666666666667
+User: 435  ----> Satisfaction: 0.9829079670232387, Weight: 0.6666666666666667
+User: 572  ----> Satisfaction: 0.9795093121722356, Weight: 0.6666666666666667
+Iteration 2
+User: 45  ----> Satisfaction: 0.935373737710307, Weight: 0.6772114578817746
+User: 435  ----> Satisfaction: 0.9829079670232387, Weight: 0.6608078493966851
+User: 572  ----> Satisfaction: 0.9795093121722356, Weight: 0.6619806927215404
+Iteration 3
+User: 45  ----> Satisfaction: 0.935373737710307, Weight: 0.6772114578817746
+User: 435  ----> Satisfaction: 0.9829079670232387, Weight: 0.6608078493966851
+User: 572  ----> Satisfaction: 0.9795093121722356, Weight: 0.6619806927215404
+
+Group Satisfaction: 0.9659303389685937
+Disagreement: 0.04753422931293172
+----------------------------
+Iteration 1
+User: 127  ----> Satisfaction: 0.899155523577612, Weight: 0.6666666666666667
+User: 256  ----> Satisfaction: 0.9239042420498709, Weight: 0.6666666666666667
+User: 12  ----> Satisfaction: 0.9075693615778978, Weight: 0.6666666666666667
+Iteration 2
+User: 127  ----> Satisfaction: 0.899155523577612, Weight: 0.6707148859509022
+User: 256  ----> Satisfaction: 0.9239042420498709, Weight: 0.6616515099597484
+User: 12  ----> Satisfaction: 0.9075693615778978, Weight: 0.6676336040893495
+Iteration 3
+User: 127  ----> Satisfaction: 0.899155523577612, Weight: 0.6707148859509022
+User: 256  ----> Satisfaction: 0.9239042420498709, Weight: 0.6616515099597484
+User: 12  ----> Satisfaction: 0.9075693615778978, Weight: 0.6676336040893495
+
+Group Satisfaction: 0.9102097090684601
+Disagreement: 0.02474871847225879
+----------------------------
+Iteration 1
+User: 549  ----> Satisfaction: 0.8932200729115508, Weight: 0.6666666666666667
+User: 478  ----> Satisfaction: 0.8157554350383733, Weight: 0.6666666666666667
+User: 82  ----> Satisfaction: 0.8464132142148927, Weight: 0.6666666666666667
+Iteration 2
+User: 549  ----> Satisfaction: 0.8932200729115508, Weight: 0.65045628277061
+User: 478  ----> Satisfaction: 0.8157554350383733, Weight: 0.680770511365762
+User: 82  ----> Satisfaction: 0.8464132142148927, Weight: 0.6687732058636279
+Iteration 3
+User: 549  ----> Satisfaction: 0.8932200729115508, Weight: 0.65045628277061
+User: 478  ----> Satisfaction: 0.8157554350383733, Weight: 0.680770511365762
+User: 82  ----> Satisfaction: 0.8464132142148927, Weight: 0.6687732058636279
+
+Group Satisfaction: 0.8517962407216055
+Disagreement: 0.07746463787317759
+----------------------------
+Iteration 1
+User: 601  ----> Satisfaction: 0.946287635013936, Weight: 0.6666666666666667
+User: 331  ----> Satisfaction: 0.9670728132651686, Weight: 0.6666666666666667
+User: 393  ----> Satisfaction: 0.9203637134596533, Weight: 0.6666666666666667
+Iteration 2
+User: 601  ----> Satisfaction: 0.946287635013936, Weight: 0.6660621920119074
+User: 331  ----> Satisfaction: 0.9670728132651686, Weight: 0.6587272585233639
+User: 393  ----> Satisfaction: 0.9203637134596533, Weight: 0.6752105494647287
+Iteration 3
+User: 601  ----> Satisfaction: 0.946287635013936, Weight: 0.6660621920119074
+User: 331  ----> Satisfaction: 0.9670728132651686, Weight: 0.6587272585233639
+User: 393  ----> Satisfaction: 0.9203637134596533, Weight: 0.6752105494647287
+
+Group Satisfaction: 0.9445747205795859
+Disagreement: 0.0467090998055153
+----------------------------
+Iteration 1
+User: 589  ----> Satisfaction: 0.9386548975918233, Weight: 0.6666666666666667
+User: 200  ----> Satisfaction: 0.9253401504767454, Weight: 0.6666666666666667
+User: 348  ----> Satisfaction: 0.9411199752811386, Weight: 0.6666666666666667
+Iteration 2
+User: 589  ----> Satisfaction: 0.9386548975918233, Weight: 0.6653773945886413
+User: 200  ----> Satisfaction: 0.9253401504767454, Weight: 0.6701239903625209
+User: 348  ----> Satisfaction: 0.9411199752811386, Weight: 0.6644986150488378
+Iteration 3
+User: 589  ----> Satisfaction: 0.9386548975918233, Weight: 0.6653773945886413
+User: 200  ----> Satisfaction: 0.9253401504767454, Weight: 0.6701239903625209
+User: 348  ----> Satisfaction: 0.9411199752811386, Weight: 0.6644986150488378
+
+Group Satisfaction: 0.9350383411165691
+Disagreement: 0.015779824804393106
+----------------------------
+Iteration 1
+User: 8  ----> Satisfaction: 0.7862107385538702, Weight: 0.6666666666666667
+User: 198  ----> Satisfaction: 0.7982309132900468, Weight: 0.6666666666666667
+User: 406  ----> Satisfaction: 0.822664274091138, Weight: 0.6666666666666667
+Iteration 2
+User: 8  ----> Satisfaction: 0.7862107385538702, Weight: 0.6733792517882395
+User: 198  ----> Satisfaction: 0.7982309132900468, Weight: 0.6683856307736149
+User: 406  ----> Satisfaction: 0.822664274091138, Weight: 0.6582351174381456
+Iteration 3
+User: 8  ----> Satisfaction: 0.7862107385538702, Weight: 0.6733792517882395
+User: 198  ----> Satisfaction: 0.7982309132900468, Weight: 0.6683856307736149
+User: 406  ----> Satisfaction: 0.822664274091138, Weight: 0.6582351174381456
+
+Group Satisfaction: 0.8023686419783517
+Disagreement: 0.03645353553726771
+----------------------------
+Iteration 1
+User: 96  ----> Satisfaction: 0.9070645618456594, Weight: 0.6666666666666667
+User: 441  ----> Satisfaction: 0.8876288148257233, Weight: 0.6666666666666667
+User: 459  ----> Satisfaction: 0.8825383710419559, Weight: 0.6666666666666667
+Iteration 2
+User: 96  ----> Satisfaction: 0.9070645618456594, Weight: 0.6611931101517842
+User: 441  ----> Satisfaction: 0.8876288148257233, Weight: 0.668452753265062
+User: 459  ----> Satisfaction: 0.8825383710419559, Weight: 0.6703541365831537
+Iteration 3
+User: 96  ----> Satisfaction: 0.9070645618456594, Weight: 0.6611931101517842
+User: 441  ----> Satisfaction: 0.8876288148257233, Weight: 0.668452753265062
+User: 459  ----> Satisfaction: 0.8825383710419559, Weight: 0.6703541365831537
+
+Group Satisfaction: 0.8924105825711129
+Disagreement: 0.02452619080370344
+----------------------------
+Iteration 1
+User: 28  ----> Satisfaction: 0.8022925005360725, Weight: 0.6666666666666667
+User: 51  ----> Satisfaction: 0.823579441045565, Weight: 0.6666666666666667
+User: 585  ----> Satisfaction: 0.8310743698067581, Weight: 0.6666666666666667
+Iteration 2
+User: 28  ----> Satisfaction: 0.8022925005360725, Weight: 0.6734594904181259
+User: 51  ----> Satisfaction: 0.823579441045565, Weight: 0.6647955076477969
+User: 585  ----> Satisfaction: 0.8310743698067581, Weight: 0.6617450019340771
+Iteration 3
+User: 28  ----> Satisfaction: 0.8022925005360725, Weight: 0.6734594904181259
+User: 51  ----> Satisfaction: 0.823579441045565, Weight: 0.6647955076477969
+User: 585  ----> Satisfaction: 0.8310743698067581, Weight: 0.6617450019340771
+
+Group Satisfaction: 0.8189821037961319
+Disagreement: 0.0287818692706856
+----------------------------
+Iteration 1
+User: 415  ----> Satisfaction: 0.8791902355151334, Weight: 0.6666666666666667
+User: 587  ----> Satisfaction: 0.890072114022995, Weight: 0.6666666666666667
+User: 106  ----> Satisfaction: 0.8846354466440044, Weight: 0.6666666666666667
+Iteration 2
+User: 415  ----> Satisfaction: 0.8791902355151334, Weight: 0.6687173723193386
+User: 587  ----> Satisfaction: 0.890072114022995, Weight: 0.6646170341211171
+User: 106  ----> Satisfaction: 0.8846354466440044, Weight: 0.6666655935595445
+Iteration 3
+User: 415  ----> Satisfaction: 0.8791902355151334, Weight: 0.6687173723193386
+User: 587  ----> Satisfaction: 0.890072114022995, Weight: 0.6646170341211171
+User: 106  ----> Satisfaction: 0.8846354466440044, Weight: 0.6666655935595445
+
+Group Satisfaction: 0.8846325987273777
+Disagreement: 0.010881878507861598
+----------------------------
